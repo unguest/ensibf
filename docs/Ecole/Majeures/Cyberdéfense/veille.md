@@ -8,11 +8,11 @@ Durant votre S5 et votre S6, en 3A donc, vous serez amenés à réaliser un éta
 
 ## Ressources
 
-### Cours externes
+### Cours externes 📚
 
 - [Expert Mémoire - Comment rédiger l’état de l’art d’un mémoire ?](https://expertmemoire.com/etat-de-lart/)
 
-### Template de rendu DOCX
+### Templates de rendus 📝
 
 Afin de vous aider dans la structuration du document, vous pouvez vous inspirer des documents suivants, qui reprennent toutes les consignes :
 
