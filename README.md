@@ -28,3 +28,4 @@ Les contributions suivantes sont très appréciées :
 ## Contributeurs
 - [Sykursen](https://gitlab.com/GuillaumeASSIER) : Dev originel.
 - [unguest](https://github.com/unguest) : Repreneur, maintenance générale.
+- [Relthdrarxash](github.com/relthdrarxash) : Rédaction, correctifs.
