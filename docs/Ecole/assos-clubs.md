@@ -2,14 +2,16 @@
 
 ## BDE ENSIBS 🙌‍
 
-Basé entre Vannes et Lorient, le bureau des étudiants est l'association des étudiants de l'ENSIBS.
+Basé entre Vannes et Lorient, le bureau des étudiants est l'association des étudiants de l'ENSIBS. C'est cette asso qui s'occupe d'organiser les soirées par exemple (GALA, WeekEnd de Cohésion). Il y a également des évènements externes qui peuvent être proposés comme des places pour le Rugby Vannes Club ou une semaine au ski.
 
 - [Site Web](https://bde-ensibs.fr/)
 
-## Club CTFs - Galettes. Cidre. CTFs. 🚩
+## Club CTFs - GCC (Galettes, Cidre, CTFs) 🚩
 
 Envie de soulever tous les CTF de France et de Navarre jusqu'au FCSC ? Alors bienvenue au club CTF.
-C'est le club rattaché au BDE qui représente l'école lors des compétitions cyber. Certains membres proposent également des challenges via le CTFd du club :
+C'est le club rattaché au BDE qui représente l'école lors des compétitions cyber. #DansLeRétro 
+
+Certains membres proposent également des challenges via le CTFd du club auquel vous aurez accès une fois que vous serez admins à l'ENSIBS :
 
 - [CTFd](https://ctfd.gcc-ensibs.fr/)
 
