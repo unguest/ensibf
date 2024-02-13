@@ -16,6 +16,13 @@ Les contributions suivantes sont très appréciées :
 - Les contributions doivent respecter les [normes du markdown](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md). Pour vous aider, utiliser un linter markdown comme markdownlint sous VSCode.
 - Les atomes de code et les fusiodemandes sont à écrire en français ou en breton.
 
+### ModOp Contributions
+
+1. Clonez le dépôt
+2. Effectuez vos modifications sur la branche 'main_changes' ou créez la vôtre
+3. Effectuez une fusiodemande
+4. Délai d'acceptation : Dépend du nombre d'heures de sommeil
+
 ## Contributeurs
 - [Sykursen](https://gitlab.com/GuillaumeASSIER) : Dev originel.
 - [unguest](https://github.com/unguest) : Repreneur, maintenance générale.
