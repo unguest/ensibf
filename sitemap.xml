@@ -26,7 +26,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.ensibf.bzh/Ecole/veille.html</loc>
+         <loc>https://docs.ensibf.bzh/Ecole/Majeures/CyberData/index.html</loc>
+         <lastmod>2024-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.ensibf.bzh/Ecole/Majeures/CyberLog/index.html</loc>
+         <lastmod>2024-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.ensibf.bzh/Ecole/Majeures/Cyberd%C3%A9fense/index.html</loc>
+         <lastmod>2024-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.ensibf.bzh/Ecole/Majeures/Cyberd%C3%A9fense/veille.html</loc>
          <lastmod>2024-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -62,6 +77,11 @@
     </url>
     <url>
          <loc>https://docs.ensibf.bzh/Pratique/acces.html</loc>
+         <lastmod>2024-02-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.ensibf.bzh/Pratique/applis.html</loc>
          <lastmod>2024-02-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
