@@ -1,0 +1,82 @@
+# Identity
+site_name: ENSIBF Docs
+site_url: https://docs.ensibf.bzh/
+site_author: unguest
+site_description: >-
+  Tu trouveras ici un bon nombre d'informations pratiques sur les formation ENSIBS, les campus, et la vie étudiante en général.
+
+# Git
+repo_name: unguest/ensibf
+repo_url: https://github.com/unguest/ensibf
+edit_uri: edit/main/docs/
+
+# Theme
+theme:
+  name: material
+  font: false
+  language: fr
+  logo: assets/pictures/helmet.png
+  favicon: assets/pictures/helmet.png
+  icon:
+    repo: fontawesome/brands/gitlab
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - toc.integrate
+    - search.suggest
+  palette:
+    - scheme: slate
+      primary: green
+      accent: teal
+
+# Extra and social icons
+extra:
+  social:
+  #  - icon: fontawesome/brands/twitter
+  #    link: https://twitter.com/GuillaumeAssier
+  #    name: Créer par Guillaume ASSIER
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/unguest/ensibf
+      name: Repo git du wiki
+  generator: false # Made with material theme
+copyright: CC BY-NC-SA 4.0 | Wiki étudiant non affilié à l'<a href="https://www-ensibs.univ-ubs.fr/fr/index.html">École Nationale Supérieure d’Ingénieurs de Bretagne-Sud (ENSIBS)
+
+# Plugins
+plugins:
+  - offline
+  - social:
+      enabled: true
+      concurrency: 4
+      cards_layout_options:
+       font_family: Roboto
+  - search:
+      lang: fr
+  - minify:
+      minify_html: true
+      minify_js: true
+      htmlmin_opts:
+          remove_comments: true
+   # https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin
+  - awesome-pages:
+      filename: .pages
+      strict: true
+  - git-revision-date
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - abbr
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
